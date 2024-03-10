@@ -1,1 +1,0 @@
-Estrutura de dados é o ramo da computação que possui foco no armazenamento e manipulação de dados em uma aplicação.
