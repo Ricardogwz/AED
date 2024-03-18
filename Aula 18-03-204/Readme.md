@@ -1,1 +1,1 @@
-
+Eu escolhi a estrutura de dados lista , por permitir a fácil adição e removação de elementos além de possuir melhor performance nos métodos add e remove , ver a próxima tarefa sem a necessidade de percorrer toda a lista de tarefas através do comando peek(), e é capaz de lidar com um grande número de tarefas. 
